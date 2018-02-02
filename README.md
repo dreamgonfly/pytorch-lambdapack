@@ -1,6 +1,6 @@
 # pytorch-lambdapack
 
-For complete explanation, refer to [the blog post](https://dreamgonfly.github.io/2018/01/20/pytorch-on-aws-lambda.html)
+For complete explanation, refer to [the blog post](https://dreamgonfly.github.io/2018/01/19/pytorch-on-aws-lambda.html)
 
 ##  To build lambdapack
 
